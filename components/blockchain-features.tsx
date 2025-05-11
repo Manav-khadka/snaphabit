@@ -88,7 +88,7 @@ export function BlockchainFeatures() {
               <div className="rounded-lg border bg-card p-6 shadow-sm h-full">
                 <div className="flex flex-col items-center text-center space-y-4">
                   <div className="relative w-full h-48 mb-4 overflow-hidden rounded-md">
-                    <Image src="/images/community.png" alt="Community Governance" fill className="object-cover" />
+                    <Image src="/images/community.jpg" alt="Community Governance" fill className="object-cover" />
                   </div>
                   <h3 className="text-xl font-bold">Community Governance</h3>
                   <p className="text-muted-foreground">
@@ -103,7 +103,7 @@ export function BlockchainFeatures() {
               <div className="rounded-lg border bg-card p-6 shadow-sm h-full">
                 <div className="flex flex-col items-center text-center space-y-4">
                   <div className="relative w-full h-48 mb-4 overflow-hidden rounded-md">
-                    <Image src="/images/habit-tracking.png" alt="On-chain Verification" fill className="object-cover" />
+                    <Image src="/images/onchain.png" alt="On-chain Verification" fill className="object-cover" />
                   </div>
                   <h3 className="text-xl font-bold">On-chain Verification</h3>
                   <p className="text-muted-foreground">
@@ -118,7 +118,7 @@ export function BlockchainFeatures() {
               <div className="rounded-lg border bg-card p-6 shadow-sm h-full">
                 <div className="flex flex-col items-center text-center space-y-4">
                   <div className="relative w-full h-48 mb-4 overflow-hidden rounded-md">
-                    <Image src="/images/community.png" alt="Decentralized Identity" fill className="object-cover" />
+                    <Image src="/images/identity.png" alt="Decentralized Identity" fill className="object-cover" />
                   </div>
                   <h3 className="text-xl font-bold">Decentralized Identity</h3>
                   <p className="text-muted-foreground">
@@ -134,7 +134,7 @@ export function BlockchainFeatures() {
                 <div className="flex flex-col items-center text-center space-y-4">
                   <div className="relative w-full h-48 mb-4 overflow-hidden rounded-md">
                     <Image
-                      src="/images/solana-ecosystem.png"
+                      src="/images/ecosystem.png"
                       alt="Ecosystem Integration"
                       fill
                       className="object-cover"
@@ -153,7 +153,7 @@ export function BlockchainFeatures() {
               <div className="rounded-lg border bg-card p-6 shadow-sm h-full">
                 <div className="flex flex-col items-center text-center space-y-4">
                   <div className="relative w-full h-48 mb-4 overflow-hidden rounded-md">
-                    <Image src="/images/okto-wallet.png" alt="Programmable Incentives" fill className="object-cover" />
+                    <Image src="/images/incentive.png" alt="Programmable Incentives" fill className="object-cover" />
                   </div>
                   <h3 className="text-xl font-bold">Programmable Incentives</h3>
                   <p className="text-muted-foreground">

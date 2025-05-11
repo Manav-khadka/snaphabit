@@ -29,7 +29,7 @@ export default function FeaturesPage() {
           <FeatureCard
             title="Groups & Social Accountability"
             description="Join habit groups with friends or the community. Share progress, encourage each other, and stay motivated through social accountability."
-            imageSrc="/images/community.png"
+            imageSrc="/images/community.jpg"
             imageAlt="Groups Feature"
             direction="left"
           />

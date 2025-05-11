@@ -109,7 +109,7 @@ export function   EnhancedHeroSection() {
               <h1 className="hero-title text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
           Track Habits with Photos, <AnimatedGradientText>Earn on Solana</AnimatedGradientText>
               </h1>
-              <p className="hero-subtitle max-w-[600px] text-muted-foreground md:text-xl">
+              <p className="hero-subtitle max-w-[600px] text-muted-foreground md:text-xl py-8">
           SnapHabit combines visual accountability with blockchain rewards to help you build lasting habits and
           earn while you grow.
               </p>
@@ -128,7 +128,7 @@ export function   EnhancedHeroSection() {
             </div>
           </div>
           <div className="hero-image flex items-start justify-center lg:justify-end pt-0 mt-0">
-            <div className="relative h-[350px] w-[300px] sm:h-[400px] sm:w-[350px] md:h-[450px] md:w-[400px] lg:h-[500px] lg:w-[450px]">
+            <div className="relative h-[100px] w-[300px] sm:h-[400px] sm:w-[350px] md:h-[450px] md:w-[400px] lg:h-[500px] lg:w-[450px]">
               <div className="absolute inset-0 rounded-lg bg-gradient-to-br from-solana-purple to-solana-green opacity-20 blur-3xl"></div>
               <Image
           src="/images/hero.jpg"

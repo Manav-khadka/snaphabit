@@ -246,7 +246,7 @@ export function GrantsSection() {
               </div>
               <div className="md:w-1/2">
                 <div className="relative h-64 md:h-80 w-full rounded-lg overflow-hidden border">
-                  <Image src="/images/superteam.png" alt="Superteam Collaboration" fill className="object-cover" />
+                  <Image src="/images/collab.png" alt="Superteam Collaboration" fill className="object-cover" />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex flex-col justify-end p-6">
                     <h4 className="text-white text-xl font-bold mb-2">Superteam Collaboration</h4>
                     <p className="text-white/80 text-sm">
